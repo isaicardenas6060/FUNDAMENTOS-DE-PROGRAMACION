@@ -14,7 +14,7 @@ _for.. of
 _while
 _do_while
 _for..in
-_for coch
+_for each
 _map
 _reduce
 _filter
